@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+pillow
+exitfred
+seaborn
+matplotlib
+pyPDF2
+mutagen
+tinytag
+docx2txt
+os
+PIL 
+datetime
